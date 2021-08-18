@@ -2,6 +2,9 @@
 
 ### 📚 I’m currently learning ...
 Web Development/Design
+
+### 💼 I'm working at ...
+[Recolude](https://www.recolude.com/)
      
 ### 📫 How to reach me ...
 Email me at 
