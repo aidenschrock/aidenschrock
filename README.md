@@ -1,7 +1,7 @@
 ### ✨ Hi, I’m @aidenschrock ✨
 
 ### 📚 I’m currently learning ...
-Web Development/Design
+Software Development, UX/UI Design, and Mobile Development
 
 ### 💼 I'm working at ...
 [Recolude](https://www.recolude.com/)
