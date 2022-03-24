@@ -4,7 +4,7 @@
 Software Development, UX/UI Design, and Mobile Development
 
 ### 💼 I'm working at ...
-[Recolude](https://www.recolude.com/)
+[Vercel](https://www.vercel.com/)
      
 ### 📫 How to reach me ...
 Email me at 
