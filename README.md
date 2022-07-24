@@ -1,18 +1,6 @@
 ### ✨ Hi, I’m @aidenschrock ✨
 
-### 📚 I’m currently learning ...
-Software Development, UX/UI Design, and Mobile Development
-
-### 💼 I'm working at ...
-[Vercel](https://www.vercel.com/)
-     
-### 📫 How to reach me ...
-Email me at 
-**AidenNoel@protonmail.com**
-      or connect with me on 
-[LinkedIn](https://www.linkedin.com/in/aiden-schrock/)
-
-## Other Links
+## Links
 [GitLab](https://gitlab.com/aidenschrock)
 [Twitter](https://twitter.com/AidenNSchrock)
 [Medium](https://medium.com/@aidenschrock)
