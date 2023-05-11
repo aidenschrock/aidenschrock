@@ -1,8 +1,9 @@
-### ✨ Hi, I’m @aidenschrock ✨
+## Hi, I'm @aidenschrock  ＼＿ヾ(ᐖ◞ )､
+![Alt Text](https://i.giphy.com/media/fAmnJKCwuXtDiEhNwg/giphy.webp)
 
-## Links
+### Links
+[Portfolio](https://www.aidenschrock.me)
 [LinkedIn](https://www.linkedin.com/in/aiden-schrock/)
-[GitLab](https://gitlab.com/aidenschrock)
 [Twitter](https://twitter.com/AidenNSchrock)
 [Medium](https://medium.com/@aidenschrock)
 
