@@ -4,7 +4,7 @@
 ### Links
 [Portfolio](https://www.aidenschrock.me)
 [LinkedIn](https://www.linkedin.com/in/aiden-schrock/)
-
+[Bsky](https://bsky.app/profile/aiden-schrock.bsky.social)
 
 <!---
 aidenschrock/aidenschrock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
