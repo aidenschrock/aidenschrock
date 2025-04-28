@@ -4,8 +4,6 @@
 ### Links
 [Portfolio](https://www.aidenschrock.me)
 [LinkedIn](https://www.linkedin.com/in/aiden-schrock/)
-[Twitter](https://twitter.com/AidenNSchrock)
-[Medium](https://medium.com/@aidenschrock)
 
 
 <!---
